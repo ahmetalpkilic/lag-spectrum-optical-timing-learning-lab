@@ -1,0 +1,89 @@
+{
+  "retrieved_utc": "2026-10-18T02:09:22.470995+00:00",
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "url": "https://github.com/brandondube/prysm",
+      "public": true,
+      "archived": false,
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "subject": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_snapshot": "licenses/brandondube-prysm.txt",
+      "license_blob": "9abcd30eefec30b3585c85bc03019baee04d1686",
+      "reviewed_source": "https://github.com/brandondube/prysm/blob/5008f47803af6ff69eed474fca049456076e4a7d/prysm/propagation/fft.py"
+    },
+    {
+      "repository": "scipy/scipy",
+      "url": "https://github.com/scipy/scipy",
+      "public": true,
+      "archived": false,
+      "pushed_at": "2026-10-17T14:48:29Z",
+      "commit": "675e76a9c7f843ebbfa85bb6ee5a2d4ef1457c4e",
+      "commit_date": "2026-10-17T14:48:29Z",
+      "subject": "DOC: sparse.linalg.lsqr: document accuracy limits of `calc_var` (#26204)",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "license_snapshot": "licenses/scipy-scipy.txt",
+      "license_blob": "1032aece8a8109d67f238de6865d8b08e750a8c0",
+      "reviewed_source": "https://github.com/scipy/scipy/blob/675e76a9c7f843ebbfa85bb6ee5a2d4ef1457c4e/scipy/linalg/_decomp.py"
+    },
+    {
+      "repository": "numpy/numpy",
+      "url": "https://github.com/numpy/numpy",
+      "public": true,
+      "archived": false,
+      "pushed_at": "2026-10-17T18:09:21Z",
+      "commit": "960bbb6bd8efc702c662475c55dd2d470817a05e",
+      "commit_date": "2026-10-17T18:09:21Z",
+      "subject": "BUG: fix `ufunc.at` segfaulting for `nin=0` (#33068)",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "license_snapshot": "licenses/numpy-numpy.txt",
+      "license_blob": "f37a12cc4cccf83af4517809791777e71c1df2a9"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "url": "https://github.com/matplotlib/matplotlib",
+      "public": true,
+      "archived": false,
+      "pushed_at": "2026-10-17T19:32:51Z",
+      "commit": "493abb1b63a19534b3f9dfd8582b1d8ef4c7f0d1",
+      "commit_date": "2026-10-17T17:00:51Z",
+      "subject": "Merge pull request #32497 from AnuTech-01/doc-fix-bar-facecolor-markup",
+      "license_snapshot": "licenses/matplotlib-matplotlib.txt",
+      "license_blob": "ec51537db27dd4d9c9ed3cd39fd96485f3cfddea"
+    },
+    {
+      "repository": "ahmetalpkilic/two-mode-optical-timing-learning-lab",
+      "url": "https://github.com/ahmetalpkilic/two-mode-optical-timing-learning-lab",
+      "public": true,
+      "archived": false,
+      "pushed_at": "2026-10-16T19:54:14Z",
+      "commit": "a7cac758f73051b234c56616d3d329cc889fcc37",
+      "commit_date": "2026-10-16T19:54:04Z",
+      "subject": "Add two-mode clock mismatch and optical-delay learning lab",
+      "license_snapshot": "licenses/ahmetalpkilic-two-mode-optical-timing-learning-lab.txt",
+      "license_blob": "c1ba35ccf6d189d05a72924c07991acf5b03ff1f"
+    }
+  ],
+  "notes": "API dates recorded verbatim; some upstream timestamps are ahead of retrieval clock. They are not independently verified release dates. Matplotlib license read from LICENSE/LICENSE; no top-level file license endpoint. Licenses permit attributed reuse; no upstream implementation copied beyond predecessor helpers."
+}
